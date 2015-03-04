@@ -1,0 +1,34 @@
+Expediente Clinico Electronico Personal
+
+Funciones:
+
+Función 1.- Espediente clínico personal:
+  Estructura propuesta para almacenar los datos:
+A) Historia clínica Médica:
+  Ficha de identificación
+  Antecedentes Heredo-familiar
+  Antecedentes Personales NO Patológicos
+  Antecedentes Personales Patológicos
+  Estudios de Laboratorio
+  Estudios de Imagen
+B)Expediente Nutricional
+  Datos antropométricos
+  Historial de Alimentos
+  Cuestionarios
+  
+F2.-Buscador incluido para encontrar información de salud de fuentes confiables/prestigiosas.
+  ahí mismo puede encontrar GRUPOS de autoayuda o con situaciones similares a la tuya.
+
+F3.-El programa te sugiere información de acuerdo a tu perfil.
+
+F4.- Agenda de citas personal y recordatorio de medicinas
+
+F5.- Acelerómetro y otras funciones para monitoreo de salud constante.
+
+Caracterísiticas:
+
+Cumplimiento del Marco Legal (Almacenamiento de datos personales).
+Compatibilidad con Platafomas electrónicas médicas institucionales (GNU-Health).
+Protección a datos personales y anonimidad mediante la des-vinculación de la ficha de identificación con el resto del expediente
+Especial atención a los permisos (Quién puede ver que cosa de mi expediente).
+P2P-FS (Servidor distribuido)
