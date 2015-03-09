@@ -13,11 +13,11 @@ México, 2013.
 
 * [Cryptanalysis and Improvement of a User Authentication Scheme Preserving Uniqueness and Anonymity for Connected Health Care.](http://link.springer.com/article/10.1007%2Fs10916-014-0179-x)
 
-*[A Mobile App for Securely Capturing and Transferring Clinical Images to the Electronic Health Record: Description and Preliminary Usability Study.](http://mhealth.jmir.org/2015/1/e1/)
+* [A Mobile App for Securely Capturing and Transferring Clinical Images to the Electronic Health Record: Description and Preliminary Usability Study.](http://mhealth.jmir.org/2015/1/e1/)
 
-*[A standard-based model for the sharing of patient-generated health information with electronic health records.](http://link.springer.com/article/10.1007%2Fs00779-014-0806-z)
+* [A standard-based model for the sharing of patient-generated health information with electronic health records.](http://link.springer.com/article/10.1007%2Fs00779-014-0806-z)
 
-*[Efficient Secure-Channel Free Public Key Encryption with Keyword Search for EMRs in Cloud Storage.](http://link.springer.com/article/10.1007%2Fs10916-014-0178-y)
+* [Efficient Secure-Channel Free Public Key Encryption with Keyword Search for EMRs in Cloud Storage.](http://link.springer.com/article/10.1007%2Fs10916-014-0178-y)
 
 ## Apps para cuidado de hipertensos
 
