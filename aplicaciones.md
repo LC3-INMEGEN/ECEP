@@ -18,3 +18,6 @@
 - http://espanol.zocdoc.com/
 - Principalmente para encontrar médicos basado en codigo postal, seguro, y reviews. Permite añadir recordatorios de futuras visitas.
  
+#Coventry Health
+- http://coventryhealthcare.com/coventry-mobile/index.htm
+- Revisar recetas, encontrar medicamentos similares, monitorear gasto economico. Sirve para encontrar médicos y hospitales cercanos.
