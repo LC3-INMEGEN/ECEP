@@ -19,7 +19,7 @@ México, 2013.
 
 * [Efficient Secure-Channel Free Public Key Encryption with Keyword Search for EMRs in Cloud Storage.](http://link.springer.com/article/10.1007%2Fs10916-014-0178-y)
 
-* [Patients' online access to their electronic health records and linked online services: a systematic review in primary care.](http://web.b.ebscohost.com/ehost/pdfviewer/pdfviewer?sid=6987ef38-81f3-4e07-8716-1af098c2250e%40sessionmgr112&vid=40&hid=115)
+* [Software libre desarrollado por Apple para ivestigaciones médicas (estará disponible en las próximas semanas).](https://developer.apple.com/researchkit/researchkit-technical-overview.pdf)
 
 ## Apps para cuidado de hipertensos
 
@@ -36,3 +36,4 @@ México, 2013.
 * [Functionalities and input methods for recording food intake: a systematic review.](http://www.ncbi.nlm.nih.gov/pubmed/23415822)
 
 * [A Survey of Online Activity Recognition Using Mobile Phones.](http://www.ncbi.nlm.nih.gov/pubmed/25608213)
+
